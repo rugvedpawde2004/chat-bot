@@ -1,7 +1,6 @@
 import os
 import json
 import streamlit as st
-import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import pandas as pd
 
